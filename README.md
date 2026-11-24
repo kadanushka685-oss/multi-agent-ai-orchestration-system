@@ -561,23 +561,33 @@ No screenshots are included, because none could be captured from a running appli
 
 ## Screenshots
 
-### 1. Overview Dashboard
-![Overview Dashboard](screenshots/dashboard1.png)
+### Overview Dashboard
+![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 2](screenshots/dashboard2.png)
 
-### 2. AI Task Workspace
-![AI Task Workspace](screenshots/ai-task-workspace1.png)
+### AI Task Workspace
+![Workspace 1](screenshots/ai-task-workspace1.png)
+![Workspace 2](screenshots/ai-task-workspace2.png)
+![Workspace 3](screenshots/ai-task-workspace3.png)
 
-### 3. Agent Management
-![Agent Management](screenshots/agent-management1.png)
+### Agent Management
+![Agent Management 1](screenshots/agent-management1.png)
+![Agent Management 2](screenshots/agent-management2.png)
 
-### 4. Execution Monitor
-![Execution Monitor](screenshots/execution-monitor1.png)
+### Execution Monitor
+![Monitor 1](screenshots/execution-monitor1.png)
+![Monitor 2](screenshots/execution-monitor2.png)
 
-### 5. Reports
-![Reports](screenshots/reports1.png)
+### Reports
+![Reports 1](screenshots/reports1.png)
+![Reports 2](screenshots/reports2.png)
+![Reports 3](screenshots/reports3.png)
 
-### 6. Execution History
-![Execution History](screenshots/execution-history1.png)
+### Execution History
+![History 1](screenshots/execution-history1.png)
+![History 2](screenshots/execution-history2.png)
+![History 3](screenshots/execution-history3.png)
 
-### 7. Settings
-![Settings](screenshots/settings1.png)
+### Settings
+![Settings 1](screenshots/settings1.png)
+![Settings 2](screenshots/settings2.png)
