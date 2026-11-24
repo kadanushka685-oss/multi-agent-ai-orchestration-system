@@ -558,3 +558,26 @@ This section states exactly what was and was not verified, so the project's clai
 - **Windows.** The installation steps were written for Windows and PowerShell, but were not executed on Windows.
 
 No screenshots are included, because none could be captured from a running application.
+
+## Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](screenshots/dashboard1.png)
+
+### 2. AI Task Workspace
+![AI Task Workspace](screenshots/ai-task-workspace1.png)
+
+### 3. Agent Management
+![Agent Management](screenshots/agent-management1.png)
+
+### 4. Execution Monitor
+![Execution Monitor](screenshots/execution-monitor1.png)
+
+### 5. Reports
+![Reports](screenshots/reports1.png)
+
+### 6. Execution History
+![Execution History](screenshots/execution-history1.png)
+
+### 7. Settings
+![Settings](screenshots/settings1.png)
